@@ -8,6 +8,7 @@ public class DemoFlywayAtharvaItsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoFlywayAtharvaItsApplication.class, args);
+		System.out.println("App started");
 	}
 
 }
