@@ -1,0 +1,5 @@
+CREATE TABLE MobileApp (
+    appId INT PRIMARY KEY,
+    appName VARCHAR(255) NOT NULL,
+    appType VARCHAR(100) NOT NULL
+);
