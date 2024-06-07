@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="oracle_wallet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/oracle_wallet/osdt_cert-19.6.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oracle_wallet/osdt_core-19.6.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oracle_wallet/oraclepki-19.6.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

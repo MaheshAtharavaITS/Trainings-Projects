@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="drivers">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/drivers/jackson-databind-2.15.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/postgresql-42.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/hsqldb-2.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/aws-secretsmanager-jdbc-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/jaybird-jdk18-3.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/snowflake-jdbc-3.14.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/mariadb-java-client-2.7.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/cassandra-jdbc-wrapper-4.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/google-cloud-spanner-jdbc-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/google-cloud-storage-2.22.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/jna-5.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/mongo-jdbc-standalone-1.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/jffi-1.3.10-native.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/databricks-jdbc-2.6.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/jna-platform-5.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/h2-2.2.220.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/jffi-1.3.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/singlestore-jdbc-client-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/ojdbc8-19.6.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/jtds-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/sqlite-jdbc-3.41.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/mssql-jdbc-12.2.0.jre8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

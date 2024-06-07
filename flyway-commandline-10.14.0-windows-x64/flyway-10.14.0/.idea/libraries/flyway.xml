@@ -1,0 +1,60 @@
+<component name="libraryTable">
+  <library name="flyway">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-sybasease-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-gcsm-integration-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-databricks-10.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-command-resolve-environment-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-verb-execute-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-sqlserver-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-derby-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-key-licensing-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-comparison-engines-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-rulesengine-sqlfluff-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-yugabytedb-10.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-telemetry-otel-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-resolver-localsecret-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-redshift-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-tidb-10.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-singlestore-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-provisioner-clean-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-core-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-ignite-10.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-oracle-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-snowflake-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-hsqldb-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-provisioner-terraform-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-provisioner-docker-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-comparison-core-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-gcp-spanner-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-redgate-licensing-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-cassandra-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-rulesengine-regex-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-provisioner-clone-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-verb-projects-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-resolver-git-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-saphana-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-resolver-sqlserver-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-dapr-integration-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-commandline-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-rgcompare-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-proprietary-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-firebird-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-clickhouse-10.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-gcp-bigquery-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-compare-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-mongodb-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-db2-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-oceanbase-10.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-db2zOS-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-informix-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-database-postgresql-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-publish-data-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-vault-integration-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-develop-10.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flyway/flyway-mysql-10.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,68 @@
+<component name="libraryTable">
+  <library name="gcp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-core-1.55.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/google-cloud-spanner-jdbc-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/auto-value-annotations-1.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/google-auth-library-credentials-1.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/proto-google-cloud-spanner-admin-instance-v1-6.43.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/proto-google-iam-v1-1.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/gax-2.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/gax-httpjson-2.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-alts-1.55.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/httpcore-4.4.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/api-common-2.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/jsr305-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-xds-1.55.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-grpclb-1.55.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-google-common-protos-2.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/opencensus-contrib-grpc-util-0.31.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-api-1.55.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/opencensus-api-0.31.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/checker-qual-3.33.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-services-1.55.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/re2j-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-protobuf-1.55.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-protobuf-lite-1.55.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/google-cloud-spanner-6.43.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/protobuf-java-3.23.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-context-1.55.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/j2objc-annotations-2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/conscrypt-openjdk-uber-2.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/threetenbp-1.6.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/opencensus-proto-0.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/httpclient-4.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/proto-google-cloud-spanner-admin-database-v1-6.43.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-auth-1.55.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/google-cloud-core-2.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-rls-1.55.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/annotations-4.1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-gcp-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/google-http-client-gson-1.43.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/error_prone_annotations-2.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/google-http-client-1.43.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/google-cloud-core-grpc-2.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-netty-shaded-1.55.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/protobuf-java-util-3.23.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/google-auth-library-oauth2-http-1.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-google-cloud-spanner-admin-database-v1-6.43.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/animal-sniffer-annotations-1.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/javax.annotation-api-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/gax-grpc-2.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/perfmark-api-0.26.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-googleapis-1.55.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/proto-google-cloud-spanner-v1-6.43.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/guava-32.0.1-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/opencensus-contrib-http-util-0.31.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-stub-1.55.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-google-cloud-spanner-admin-instance-v1-6.43.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/grpc-google-cloud-spanner-v1-6.43.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/gcp/proto-google-common-protos-2.21.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

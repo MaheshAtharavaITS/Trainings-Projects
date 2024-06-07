@@ -1,0 +1,1 @@
+CREATE TABLE Student (rollno int primary key, name varchar(255),address varchar(255),email varchar(255));

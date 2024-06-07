@@ -1,0 +1,77 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-http2-4.1.101.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-dataformat-xml-2.15.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-tcnative-boringssl-static-2.0.62.Final-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-native-unix-common-4.1.101.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-resolver-4.1.101.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opentelemetry-sdk-1.23.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oauth2-oidc-sdk-10.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactor-core-3.4.34.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/woodstox-core-6.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-native-epoll-4.1.101.Final-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-5.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.23.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.15.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-nop-1.7.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/content-type-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opentelemetry-api-1.23.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-util-9.4.53.v20231009.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-handler-proxy-4.1.101.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lombok-1.18.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-dns-4.1.101.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opentelemetry-sdk-logs-1.23.1-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-tcnative-boringssl-static-2.0.62.Final-osx-aarch_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-datatype-jsr310-2.15.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactor-netty-core-1.0.40.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jansi-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-4.1.101.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-http-9.4.53.v20231009.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-core-http-netty-1.14.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opentelemetry-sdk-metrics-1.23.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-buffer-4.1.101.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opentelemetry-sdk-extension-autoconfigure-1.35.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-resolver-dns-4.1.101.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-tcnative-classes-2.0.62.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-socks-4.1.101.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactive-streams-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opentelemetry-sdk-trace-1.23.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-tcnative-boringssl-static-2.0.62.Final-osx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-core-1.47.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-server-9.4.53.v20231009.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-http-4.1.101.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opentelemetry-sdk-common-1.23.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opentelemetry-semconv-1.23.1-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lang-tag-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nimbus-jose-jwt-9.37.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcip-annotations-1.0-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/msal4j-persistence-extension-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-text-1.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-4.1.101.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-classes-kqueue-4.1.101.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opentelemetry-context-1.23.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-native-kqueue-4.1.101.Final-osx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax2-api-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-tcnative-boringssl-static-2.0.62.Final-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-tcnative-boringssl-static-2.0.62.Final-linux-aarch_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-resolver-dns-native-macos-4.1.101.Final-osx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-common-4.1.101.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactor-netty-http-1.0.40.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-resolver-dns-classes-macos-4.1.101.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-monitor-opentelemetry-exporter-1.0.0-beta.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-handler-4.1.101.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-classes-epoll-4.1.101.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opentelemetry-api-logs-1.23.1-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-json-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-dataformat-toml-2.15.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-tcnative-boringssl-static-2.0.62.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-io-9.4.53.v20231009.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opentelemetry-api-events-1.23.1-alpha.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

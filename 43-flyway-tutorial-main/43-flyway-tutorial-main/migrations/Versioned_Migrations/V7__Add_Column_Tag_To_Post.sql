@@ -1,0 +1,2 @@
+ALTER TABLE posts
+ADD COLUMN tag VARCHAR(50);
