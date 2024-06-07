@@ -4,7 +4,7 @@
 PWD="C:\Flyway\Demo_Flyway"
 
 # PostgreSQL specific environment variables
-#POSTGRES_HOST="localhost"
+#POSTGRES_HOST="host.docker.internal"
 #POSTGRES_PORT="5432"
 #POSTGRES_DB="flyway_docker"
 #POSTGRES_USER="postgres"
